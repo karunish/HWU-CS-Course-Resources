@@ -12,8 +12,6 @@
 
 **For Windows Users:** Make sure you have [**WSL 2**](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2) (**W**indows **S**ubsystem for **L**inux) setup on your machine with a Linux OS installed (usually Ubuntu LTS) before the course begins to have a smoother experience.
 
-- [MACS TEL - F28LL](https://www.macs.hw.ac.uk/tel/resources/category/f28ll-main/) - TEL Resources for F28LL
-
 **Note (from 2025):** The F28PL module has been taught using OCaml only. The Python and Prolog resources below are retained for self-study and historical reference but are no longer the primary taught languages for F28PL.
 
 ### OCaml
@@ -22,6 +20,8 @@
 - [OCaml Tutorial - Fullstack Academy](https://youtu.be/PGGl5WcNOIU) - YouTube
 - [OCaml Exercises](https://exercism.org/tracks/ocaml) - Exercism<br>
 Coding exercises for Ocaml, available with help, testing for free
+
+### [MACS TEL - F28LL](https://www.macs.hw.ac.uk/tel/resources/category/f28ll-main/) - TEL Resources for F28LL
 
 ### Python
 - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370) (LinkedIn Learning Course)
